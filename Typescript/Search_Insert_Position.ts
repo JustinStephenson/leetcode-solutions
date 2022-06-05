@@ -1,4 +1,4 @@
 function searchInsert(nums: number[], target: number): number {
-	// Do Binary Search
+	// TODO: Do Binary Search
 	return 0;
 }
